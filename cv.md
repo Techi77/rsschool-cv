@@ -16,6 +16,7 @@
 ## Skills:
 * Java
 * Kotlin
+* Basic C++
 
 
 ## [Code examples](https://github.com/Techi77/-CalorieCalculator)
